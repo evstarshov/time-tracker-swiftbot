@@ -12,3 +12,4 @@
 # Xcode
 xcuserdata/
 DerivedData/
+*.xcodeproj/
