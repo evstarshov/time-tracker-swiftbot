@@ -1,0 +1,14 @@
+# Personal data and secrets
+.env
+*.json
+!Package.resolved
+!captcha_words.json
+.DS_Store
+
+# Swift
+.build/
+.swiftpm/
+
+# Xcode
+xcuserdata/
+DerivedData/
