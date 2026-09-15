@@ -6,7 +6,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420)
 ![systemd](https://img.shields.io/badge/systemd-✓-black)
 
-[🇷🇺 Русская версия ниже](#русская-версия)
+[🇷🇺 Русская версия ниже](#русская-версия-1)
 
 Pet project: Telegram bot for employee work time tracking, deployed on a dedicated Ubuntu Server. Demonstrates enterprise practices (Sber) adapted for solo development.
 
